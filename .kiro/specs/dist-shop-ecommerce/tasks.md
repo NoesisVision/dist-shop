@@ -71,25 +71,25 @@
   - Create integration with other services through event publishing
   - _Requirements: 3.1, 5.1, 5.2_
 
-- [ ] 4. Implement Pricing Service
+- [x] 4. Implement Pricing Service
   - Create pricing engine with configurable pricing rules
   - Implement different pricing strategies (fixed, percentage, tiered)
   - Set up pricing calculation API and database storage
   - _Requirements: 9.1, 9.2, 9.3, 9.4, 9.5_
 
-- [ ] 4.1 Create pricing domain model
+- [x] 4.1 Create pricing domain model
   - Implement PricingRule aggregate with strategy pattern
   - Create PricingEngine for price calculation logic
   - Define pricing-specific value objects and events
   - _Requirements: 9.1, 9.2, 9.3_
 
-- [ ] 4.2 Implement pricing repository and services
+- [x] 4.2 Implement pricing repository and services
   - Create PricingRepository for rule storage and retrieval
   - Implement PriceCalculatorService with multiple pricing strategies
   - Set up pricing database schema and Entity Framework configuration
   - _Requirements: 9.5, 6.3_
 
-- [ ] 4.3 Create pricing API and integration
+- [x] 4.3 Create pricing API and integration
   - Implement REST endpoints for pricing calculations and rule management
   - Create event handlers for pricing updates and notifications
   - Set up integration with online shopping and wholesale services
