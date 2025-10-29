@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhLuy4T6kpU=",
+  "success": true,
+  "projectFilePath": "/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Inventory/NoesisVision.DistShop.Inventory.Contracts/NoesisVision.DistShop.Inventory.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/szjanikowski/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.10/microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "/Users/szjanikowski/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.10/microsoft.extensions.logging.abstractions.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

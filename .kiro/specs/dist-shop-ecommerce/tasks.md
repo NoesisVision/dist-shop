@@ -95,25 +95,25 @@
   - Set up integration with online shopping and wholesale services
   - _Requirements: 9.4, 5.2_
 
-- [ ] 5. Implement Orders Service
+- [x] 5. Implement Orders Service
   - Create order domain model with state machine pattern
   - Implement order lifecycle management and state transitions
   - Set up order database and repository implementation
   - _Requirements: 8.1, 8.2, 8.3, 8.4, 8.5_
 
-- [ ] 5.1 Create order domain model
+- [x] 5.1 Create order domain model
   - Implement OrderAggregate with order state management
   - Create OrderItem value objects and order-specific domain events
   - Define order status enumeration and state transition rules
   - _Requirements: 8.1, 8.2_
 
-- [ ] 5.2 Implement order repository and database
+- [x] 5.2 Implement order repository and database
   - Create OrderRepository with Entity Framework implementation
   - Set up order database context, migrations, and audit trails
   - Implement order history and tracking mechanisms
   - _Requirements: 8.5, 6.3_
 
-- [ ] 5.3 Create order event handlers and integration
+- [x] 5.3 Create order event handlers and integration
   - Implement handlers for order creation and status change events
   - Create integration with inventory service for stock coordination
   - Set up order-shipment service integration through events
