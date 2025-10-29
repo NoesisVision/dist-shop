@@ -1,5 +1,7 @@
 # NoesisVision DistShop E-commerce Platform
 
+**THIS PROJECT IS ENTIRELY AI GENERATED AND IS HERE ONLY FOR THE PURPOSE OF DEMONSTRATING NOESIS ARCHITECTURE VISUALIZATION - PLEASE DO NOT USE ITS CONTENT IN PRODUCTION SYSTEMS!**
+
 A distributed e-commerce platform built using .NET 9 microservices architecture following Domain-Driven Design (DDD) principles.
 
 ## Solution Structure
