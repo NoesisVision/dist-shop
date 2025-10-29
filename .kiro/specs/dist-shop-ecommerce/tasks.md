@@ -20,26 +20,26 @@
   - Set up dependency injection configuration for event handling
   - _Requirements: 5.1, 5.2, 5.5_
 
-- [ ] 2. Implement Catalog Service
+- [x] 2. Implement Catalog Service
   - Create product and category domain models with proper encapsulation
   - Implement repository pattern for catalog data access
   - Set up Entity Framework Core with SQL Server for catalog database
   - _Requirements: 1.2, 6.1, 6.3_
 
-- [ ] 2.1 Create catalog domain entities and contracts
+- [x] 2.1 Create catalog domain entities and contracts
   - Implement ProductAggregate with business logic and invariants
   - Create CategoryAggregate for hierarchical product organization
   - Define catalog-specific value objects and domain events in separate contracts module
   - Create NoesisVision.DistShop.Catalog.Contracts with catalog event definitions
   - _Requirements: 1.2, 1.4, 5.1_
 
-- [ ] 2.2 Implement catalog data access layer
+- [x] 2.2 Implement catalog data access layer
   - Create ProductRepository and CategoryRepository implementations
   - Set up Entity Framework DbContext with proper configurations
   - Implement database migrations for catalog schema
   - _Requirements: 6.1, 6.3_
 
-- [ ] 2.3 Create catalog API controllers and services
+- [x] 2.3 Create catalog API controllers and services
   - Implement REST endpoints for product and category operations
   - Create application services for catalog business operations
 - [ ]* 2.4 Set up Swagger documentation for catalog API

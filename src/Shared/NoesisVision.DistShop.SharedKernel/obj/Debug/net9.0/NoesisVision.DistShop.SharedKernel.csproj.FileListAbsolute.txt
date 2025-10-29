@@ -22,3 +22,4 @@
 /Users/szjanikowski/Documents/git/noesis/dist-shop/src/Shared/NoesisVision.DistShop.SharedKernel/obj/Debug/net9.0/refint/NoesisVision.DistShop.SharedKernel.dll
 /Users/szjanikowski/Documents/git/noesis/dist-shop/src/Shared/NoesisVision.DistShop.SharedKernel/obj/Debug/net9.0/NoesisVision.DistShop.SharedKernel.pdb
 /Users/szjanikowski/Documents/git/noesis/dist-shop/src/Shared/NoesisVision.DistShop.SharedKernel/obj/Debug/net9.0/ref/NoesisVision.DistShop.SharedKernel.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Shared/NoesisVision.DistShop.SharedKernel/obj/Debug/net9.0/NoesisVision.DistShop.SharedKernel.sourcelink.json

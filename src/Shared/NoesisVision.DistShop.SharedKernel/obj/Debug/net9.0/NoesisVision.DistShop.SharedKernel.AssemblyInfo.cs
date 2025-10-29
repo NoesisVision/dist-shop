@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Noesis Vision 2024")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9301f5b98b82b4f4fb818937eb711e2c70a3916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e281ece8c24bcfba8fdcd05731178a00260505ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistShop E-commerce Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoesisVision.DistShop.SharedKernel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
