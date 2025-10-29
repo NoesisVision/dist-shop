@@ -17,13 +17,9 @@ public class PricingRuleRepository : IPricingRuleRepository
         _context = context ?? throw new ArgumentNullException(nameof(context));
     }
 
-    public async Task<PricingRuleAggregate> GetByIdAsync(Guid id)
+    public async Task<PricingRuleAggregate?> GetByIdAsync(Guid id)
     {
-        var rule = await _context.PricingRules.FindAsync(id);
-        if (rule == null)
-            throw new InvalidOperationException($"Pricing rule with ID {id} not found");
-        
-        return rule;
+        return await _context.PricingRules.FindAsync(id);
     }
 
     public async Task<IEnumerable<PricingRuleAggregate>> GetAllAsync()

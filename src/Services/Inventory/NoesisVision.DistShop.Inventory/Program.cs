@@ -22,11 +22,10 @@ builder.Services.AddDbContext<InventoryDbContext>(options =>
         "Server=(localdb)\\mssqllocaldb;Database=DistShop.Inventory;Trusted_Connection=true;MultipleActiveResultSets=true"));
 
 // Register shared kernel services
-builder.Services.AddSharedKernel();
+builder.Services.AddSharedKernel<InventoryDbContext>();
 
 // Register repositories
 builder.Services.AddScoped<IInventoryRepository, InventoryRepository>();
-builder.Services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<InventoryDbContext>());
 
 // Register application services
 builder.Services.AddScoped<IInventoryService, InventoryService>();

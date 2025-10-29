@@ -1,0 +1,16 @@
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.deps.json
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.pdb
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.SharedKernel.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.SharedKernel.pdb
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.csproj.AssemblyReference.cache
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.AssemblyInfoInputs.cache
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.AssemblyInfo.cs
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.csproj.CoreCompileInputs.cache
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.sourcelink.json
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVi.B48F9E06.Up2Date
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/refint/NoesisVision.DistShop.Pricing.Contracts.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.Pricing.Contracts.pdb
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Pricing/NoesisVision.DistShop.Pricing.Contracts/obj/Debug/net9.0/ref/NoesisVision.DistShop.Pricing.Contracts.dll

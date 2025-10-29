@@ -15,7 +15,7 @@ public class ProductCreatedEventHandler : IEventHandler<ProductCreatedEvent>
         _logger = logger ?? throw new ArgumentNullException(nameof(logger));
     }
 
-    public async Task HandleAsync(ProductCreatedEvent @event)
+    public async Task HandleAsync(ProductCreatedEvent @event, CancellationToken cancellationToken = default)
     {
         _logger.LogInformation("Product created event received for product {ProductId}: {ProductName}", 
             @event.ProductId, @event.Name);

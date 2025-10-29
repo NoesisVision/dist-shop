@@ -1,12 +1,13 @@
 using NoesisVision.DistShop.Catalog.Contracts.Events;
 using NoesisVision.DistShop.Inventory.Application.Services;
+using NoesisVision.DistShop.SharedKernel.Events;
 
 namespace NoesisVision.DistShop.Inventory.Application.EventHandlers;
 
 /// <summary>
 /// Handles ProductCreatedEvent to automatically create inventory items for new products
 /// </summary>
-public class ProductCreatedEventHandler
+public class ProductCreatedEventHandler : IEventHandler<ProductCreatedEvent>
 {
     private readonly IInventoryService _inventoryService;
     private readonly ILogger<ProductCreatedEventHandler> _logger;
@@ -23,7 +24,8 @@ public class ProductCreatedEventHandler
     /// Handles the ProductCreatedEvent by creating a corresponding inventory item
     /// </summary>
     /// <param name="productCreatedEvent">The product created event</param>
-    public async Task HandleAsync(ProductCreatedEvent productCreatedEvent)
+    /// <param name="cancellationToken">Cancellation token</param>
+    public async Task HandleAsync(ProductCreatedEvent productCreatedEvent, CancellationToken cancellationToken = default)
     {
         try
         {

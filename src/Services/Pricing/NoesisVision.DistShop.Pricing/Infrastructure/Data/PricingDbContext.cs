@@ -29,7 +29,7 @@ public class PricingDbContext : DbContext, IUnitOfWork
         modelBuilder.ApplyConfiguration(new PricingRuleConfiguration());
     }
 
-    public async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
         // Collect domain events before saving
         var domainEvents = ChangeTracker
@@ -56,24 +56,24 @@ public class PricingDbContext : DbContext, IUnitOfWork
         return result;
     }
 
-    public async Task BeginTransactionAsync()
+    public async Task BeginTransactionAsync(CancellationToken cancellationToken = default)
     {
-        await Database.BeginTransactionAsync();
+        await Database.BeginTransactionAsync(cancellationToken);
     }
 
-    public async Task CommitTransactionAsync()
+    public async Task CommitTransactionAsync(CancellationToken cancellationToken = default)
     {
         if (Database.CurrentTransaction != null)
         {
-            await Database.CurrentTransaction.CommitAsync();
+            await Database.CurrentTransaction.CommitAsync(cancellationToken);
         }
     }
 
-    public async Task RollbackTransactionAsync()
+    public async Task RollbackTransactionAsync(CancellationToken cancellationToken = default)
     {
         if (Database.CurrentTransaction != null)
         {
-            await Database.CurrentTransaction.RollbackAsync();
+            await Database.CurrentTransaction.RollbackAsync(cancellationToken);
         }
     }
 }

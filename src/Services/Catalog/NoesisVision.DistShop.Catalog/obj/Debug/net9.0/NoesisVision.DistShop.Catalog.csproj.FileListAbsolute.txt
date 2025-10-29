@@ -158,3 +158,9 @@
 /Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/obj/Debug/net9.0/NoesisVision.DistShop.Catalog.pdb
 /Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/obj/Debug/net9.0/NoesisVision.DistShop.Catalog.genruntimeconfig.cache
 /Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/obj/Debug/net9.0/ref/NoesisVision.DistShop.Catalog.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/Catalog/NoesisVision.DistShop.Catalog/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll

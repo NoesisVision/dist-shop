@@ -1,0 +1,16 @@
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.deps.json
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.pdb
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.SharedKernel.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/bin/Debug/net9.0/NoesisVision.DistShop.SharedKernel.pdb
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.csproj.AssemblyReference.cache
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.AssemblyInfoInputs.cache
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.AssemblyInfo.cs
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.csproj.CoreCompileInputs.cache
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.sourcelink.json
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVi.F09EC01D.Up2Date
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/refint/NoesisVision.DistShop.OnlineShopping.Contracts.dll
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/NoesisVision.DistShop.OnlineShopping.Contracts.pdb
+/Users/szjanikowski/Documents/git/noesis/dist-shop/src/Services/OnlineShopping/NoesisVision.DistShop.OnlineShopping.Contracts/obj/Debug/net9.0/ref/NoesisVision.DistShop.OnlineShopping.Contracts.dll

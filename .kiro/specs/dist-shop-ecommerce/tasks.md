@@ -119,25 +119,25 @@
   - Set up order-shipment service integration through events
   - _Requirements: 8.3, 8.4, 5.1, 5.2_
 
-- [ ] 6. Implement Online Shopping Service
+- [x] 6. Implement Online Shopping Service
   - Create cart domain model with item management
   - Implement checkout orchestration with pricing and inventory integration
   - Set up REST API endpoints for cart and checkout operations
   - _Requirements: 2.1, 2.2, 2.3, 2.4, 2.5, 7.1, 7.2, 7.3, 7.4, 7.5_
 
-- [ ] 6.1 Create shopping cart domain model
+- [x] 6.1 Create shopping cart domain model
   - Implement CartAggregate with cart item management logic
   - Create CartItem value objects and shopping-specific events
   - Define cart validation rules and business invariants
   - _Requirements: 2.3, 2.1_
 
-- [ ] 6.2 Implement cart repository and services
+- [x] 6.2 Implement cart repository and services
   - Create CartRepository with Entity Framework implementation
   - Implement CheckoutSaga for orchestrating checkout process
   - Set up cart database schema and session management
   - _Requirements: 6.3, 2.4_
 
-- [ ] 6.3 Create shopping API controllers
+- [x] 6.3 Create shopping API controllers
   - Implement REST endpoints for cart operations (GET, POST, PUT, DELETE)
   - Create checkout API with proper HTTP status codes and error handling
   - _Requirements: 7.1, 7.2, 7.3_
@@ -145,7 +145,7 @@
   - Configure OpenAPI documentation for shopping endpoints
   - _Requirements: 7.4_
 
-- [ ] 6.5 Implement shopping service integrations
+- [x] 6.5 Implement shopping service integrations
   - Create integration with Pricing Service for cart item pricing
   - Implement inventory validation during cart operations
   - Set up order creation integration with Orders Service
