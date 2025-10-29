@@ -46,27 +46,27 @@
   - Configure OpenAPI documentation for catalog endpoints
   - _Requirements: 7.4_
 
-- [ ] 3. Implement Inventory Service
+- [x] 3. Implement Inventory Service
   - Create inventory domain model with stock management logic
   - Implement stock reservation and availability checking mechanisms
   - Set up inventory database schema and data access layer
   - _Requirements: 3.1, 3.2, 3.3, 3.4, 3.5_
 
-- [ ] 3.1 Create inventory domain model and contracts
+- [x] 3.1 Create inventory domain model and contracts
   - Implement InventoryItem aggregate with stock management business rules
   - Create stock reservation value objects and domain events
   - Define inventory-specific exceptions and validation logic
   - Create NoesisVision.DistShop.Inventory.Contracts with inventory event definitions
   - _Requirements: 3.1, 3.2, 3.5, 5.1_
 
-- [ ] 3.2 Implement inventory repository and database
+- [x] 3.2 Implement inventory repository and database
   - Create InventoryRepository with Entity Framework implementation
   - Set up inventory database context and migrations
 - [ ]* 3.3 Implement stock level monitoring and alerts
   - Create stock level monitoring and alert mechanisms
   - _Requirements: 3.4_
 
-- [ ] 3.4 Create inventory event handlers
+- [x] 3.4 Create inventory event handlers
   - Implement handlers for stock update and reservation events
   - Create integration with other services through event publishing
   - _Requirements: 3.1, 5.1, 5.2_
